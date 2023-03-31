@@ -6,8 +6,8 @@
 ### CVE List:
 
 **Mediatek:**
-1. CVE-2023-20634
-2. CVE-2023-20635
+1. CVE-2023-20634 - MediaTek Chipsets widevine Component Unspecified Out-of-bounds Write Local Privilege Escalation
+2. CVE-2023-20635 - MediaTek Chipsets keyinstall Component Unspecified Integer Underflow Local Information Disclosure
 3. CVE-2023-20708
 4. CVE-2023-20711
 
