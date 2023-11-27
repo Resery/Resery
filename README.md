@@ -25,14 +25,6 @@
 17. CVE-2023-32875
 18. CVE-2023-32876
 
-### Src List:
-
-**OnePlus Src:**
-1. Reserved
-
-**OPPO Src:**
-1. Reserved
-
 <!--
 **Resery/Resery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
