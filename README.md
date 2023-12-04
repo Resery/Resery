@@ -24,6 +24,7 @@
 16. CVE-2023-32873
 17. CVE-2023-32875
 18. CVE-2023-32876
+19. CVE-2024-20013
 
 <!--
 **Resery/Resery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
