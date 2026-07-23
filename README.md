@@ -1,6 +1,6 @@
 # Hi there, I'm Resery 👋
 
-### 👨‍💻 Android & TEE Security Engineer @ Xiaomi
+### 👨‍💻 Android & TEE Security Enginee
 **Focusing on system-level security, vulnerability research, and trusted execution environments.**
 
 ### 🛡️ Vulnerability Research (MediaTek)
