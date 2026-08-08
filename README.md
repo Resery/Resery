@@ -5,7 +5,7 @@
 
 ### 🎤 Talks
 
-- **Black Hat USA 2026** — [*Exploring the EL2 Attack Surface: From Vulnerability to Full System Compromise*](https://blackhat.com/us-26/briefings/schedule/index.html#exploring-the-el2-attack-surface-from-vulnerability-to-full-system-compromise-51679)
+**Black Hat USA 2026** — [*Exploring the EL2 Attack Surface: From Vulnerability to Full System Compromise*](https://blackhat.com/us-26/briefings/schedule/index.html#exploring-the-el2-attack-surface-from-vulnerability-to-full-system-compromise-51679)
 
 ### 🛡️ Vulnerability Research (MediaTek)
 
